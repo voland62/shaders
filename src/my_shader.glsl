@@ -2,6 +2,8 @@
 precision mediump float;
 #endif
 
+// delete this line
+
 //uniform float iGlobalTime;
 //uniform vec4 iMouse;
 //uniform vec3 iResolution;
